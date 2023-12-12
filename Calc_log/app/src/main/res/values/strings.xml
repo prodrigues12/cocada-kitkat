@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calc_log</string>
+    <string name="botao_calcular">Calcular</string>
+    <string name="valor_caixa">Itens por Caixa</string>
+    <string name="valor_pedido">Pedido</string>
+    <string name="butao_sair">Sair</string>
+    <string name="butao_novoCalculo">Novo Cálculo</string>
+
+    <string name="resultado_caixa">Quantidade de Caixas</string>
+    <string name="resultado_unidade">Quantidades de unidades</string>
+
+    <string name="hint_valorPedido">Quantidade de itens do pedido</string>
+    <string name="hint_valorCaixa">Quantidade de itens por caixa</string>
+
+    <string name="qtd_caixa">Caixa(s) </string>
+    <string name="qtd_unidade">Unidade(s)</string>
+
+</resources>
